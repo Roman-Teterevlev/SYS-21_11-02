@@ -27,7 +27,7 @@ Roman Teterevlev
 
 ### Ответ:
 
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_11-02/blob/main/11-02_2.png)
 
 ---
 
@@ -39,7 +39,9 @@ Roman Teterevlev
 
 ### Ответ:
 
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_11-02/blob/main/11-02_3.1.png)
 
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_11-02/blob/main/11-02_3.2.png)
 
 ---
 
@@ -51,7 +53,7 @@ Roman Teterevlev
 
 ### Ответ:
 
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_11-02/blob/main/11-02_4.png)
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже разобраться в материале.
@@ -64,6 +66,6 @@ Roman Teterevlev
 
 ### Ответ:
 
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_11-02/blob/main/11-02_5.png)
 
 ---
